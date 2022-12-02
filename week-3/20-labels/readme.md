@@ -1,4 +1,4 @@
-# Form Labels
+n# Form Labels
 
 Labels are used to tell the user what data they are expected to enter into a form field. In our last exercise, we built a search form. But how will the user know what they are expected to do? You need to make the form more "user-friendly".
 
